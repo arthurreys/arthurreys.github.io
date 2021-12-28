@@ -1,6 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
 title: Arthur Reys
 description: A summary of my work experience, research and publications.
@@ -9,3 +10,4 @@ is_user_page: true
 
 
 linkedin: https://www.linkedin.com/in/arthur-reys-1580a11b4/
+cv: assets/pdf/cv.pdf
