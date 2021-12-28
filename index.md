@@ -27,11 +27,7 @@ I'm a Data Scientist with interest in Machine Learning and Deep Learning.
 
 ## Education
 
-<dl>
-<dt>Federal University of Santa Catarina</dt>
-<dd>Bachelor in Electric Engineering</dd>
-<dd>2015-2020</dd>
-</dl>
-
-
+- **Implementação em tempo real de um sistema de redução de ruído binaural com preservação da função de transferência interaural**
+    - Federal University of Santa Catarina
+    - 2015-2020
 
