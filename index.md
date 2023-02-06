@@ -77,3 +77,11 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
     - *Victor H. R. Oliveira, Augusto Antunes, Alexandre S. Soares, Arthur D. Reys, Robson Z. Júnior, Saulo D. S. Pedro, Danilo Silva*
     - CBIS 2021
     - [[paper](https://arxiv.org/abs/2112.12609)]
+
+---
+
+## Idiomas
+
+- Português (nativo)
+- Inglês (intermediário)
+- Alemão (básico)

@@ -79,4 +79,10 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
     - CBIS 2021
     - [[artigo](https://arxiv.org/abs/2112.12609)]
 
+---
 
+## Language
+
+- Portuguese (native)
+- English (intermediate)
+- German (beginner)
