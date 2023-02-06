@@ -23,7 +23,7 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 ## Education
 
 - **Federal University of Santa Catarina**
-    - 2015-2020
+    - *2015-2020*
     - Bachelor in Electric Engineering
     - PIBIC/CNPq Research scholarship at Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS)
     - Academic Mobility Program scholarship, hosted by UNIFEI.
@@ -35,19 +35,19 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 ## Work Experience
 
 - **3778 - Data Scientist II**
-    - 2022-
+    - *2022-*
     - Development of Predictive models focused on improving navigation and outcome in supplementary healthcare.
     - Deployment and tracking of models and solutions on cloud (CGP).
     - Data treatment and featurization in SQL.
     - Squad leader role.
 
 - **3778 - Junior Data Scientist**
-    - 2020-2022
+    - *2020-2022*
     - Data analysis and storytelling.
     - Development and tracking of a model for classifying work leave.
 
 - **3778 - Machine Learning Intern**
-    - 2019-2020
+    - *2019-2020*
     - Deep Learning research with portuguese NLP (Natural Language Processing).
 
 ---

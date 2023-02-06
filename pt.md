@@ -24,7 +24,7 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 ## Formação
 
 - **Universidade Federal de Santa Catarina**
-    - 2015-2020
+    - *2015-2020*
     - Bacharel em Engenharia Elétrica
     - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
     - Bolsista no Programa de Mobilidade Acadêmica ANDIFES/Santander, acolhido pela UNIFEI.
@@ -36,19 +36,19 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 ## Experiência de trabalho
 
 - **3778 - Cientista de Dados II**
-    - 2022-
+    - *2022-*
     - Desenvolvimento de modelos preditivos focados em melhoria de desfecho em saúde suplementar.
     - Deploy e acompanhamento de modelos em nuvem (CGP).
     - Tratamento de dados e construção de features em SQL.
     - Squad leader.
 
 - **3778 - Cientista de Dados Júnior**
-    - 2020-2022
+    - *2020-2022*
     - Análise de dados e storytelling.
     - Desenvolvimento e acompanhamento de modelo de classificação de afastamentos de trabalho.
 
 - **3778 - Estagiário de Machine Learning**
-    - 2019-2020
+    - *2019-2020*
     - Pesquisa em Aprendizado Profundo focada em PLN em português (Processamento de Língua Natural).
 
 ---
