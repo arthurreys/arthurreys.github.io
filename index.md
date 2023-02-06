@@ -51,7 +51,7 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 - **Predicting Multiple ICD-10 Codes from Brazilian-Portuguese Clinical Notes**
     - *Arthur D. Reys, Danilo Silva, Daniel Severo, Saulo Pedro, Marcia M. de Souza e Sá, Guilherme A. C. Salgado*<br/>
     - BRACIS 2020
-    - [[paper](https://arxiv.org/abs/2008.01515)] [[ppt](assets/pdf/BRACIS2020 Presentation.pdf) [[code](https://github.com/3778/icd-prediction-mimic)]
+    - [[paper](https://arxiv.org/abs/2008.01515)] [[ppt](assets/pdf/BRACIS2020 Presentation.pdf)] [[code](https://github.com/3778/icd-prediction-mimic)]
 
 
 
