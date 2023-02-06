@@ -38,11 +38,11 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
     - Tratamento de dados e construção de features em SQL.
     - Squad leader.
 
-- **Junior Data Scientist at 3778**
+- **3778 - Cientista de Dados Júnior**
     - Análise de dados e storytelling.
     - Desenvolvimento e acompanhamento de modelo de classificação de afastamentos de trabalho.
 
-- **3778 - Cientista de Dados Júnior**
+- **3778 - Estagiário de Machine Learning**
     - Pesquisa em Aprendizado Profundo focada em PLN em português (Processamento de Língua Natural).
 
 ---
