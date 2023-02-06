@@ -81,8 +81,8 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 
 ---
 
-## Language
+## Idiomas
 
-- Portuguese (native)
-- English (intermediate)
-- German (beginner)
+- Português (nativo)
+- Inglês (intermediário)
+- Alemão (básico)

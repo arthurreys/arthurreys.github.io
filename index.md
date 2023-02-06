@@ -80,8 +80,9 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 
 ---
 
-## Idiomas
+## Language
 
-- Português (nativo)
-- Inglês (intermediário)
-- Alemão (básico)
+- Portuguese (native)
+- English (intermediate)
+- German (beginner)
+
