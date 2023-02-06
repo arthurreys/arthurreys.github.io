@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## Sobre mim
+## About me
 
 I'm a Data Scientist with experience and interest in Machine Learning and Deep Learning, with a Bachelor degree in Electric Engineering by the
 Federal University of Santa Catarina, in Brazil.

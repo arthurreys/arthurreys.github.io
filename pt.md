@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## About me
+## Sobre mim
 
 Sou Cientista de Dados com experiência e interesse em Aprendizado de Máquina e Aprendizado Profundo (Deep Learning),
 formado em Engenharia Elétrica pela Universidade Federal de Santa Catarina.
