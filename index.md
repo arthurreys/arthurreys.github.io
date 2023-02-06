@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## About me
+## Sobre mim
 
 I'm a Data Scientist with experience and interest in Machine Learning and Deep Learning, with a Bachelor degree in Electric Engineering by the
 Federal University of Santa Catarina, in Brazil.
@@ -22,17 +22,17 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 
 ## Work Experience
 
-- **Data Scientist at 3778**
-    - Development of Predictive models focused on improving navigation and outcome in supplementary healthcare
-    - Deployment and tracking of models and solutions on cloud (CGP)
-    - Data treatment and featurization in SQL
-    - Squad leader role
+- **3778 - Data Scientist II**
+    - Development of Predictive models focused on improving navigation and outcome in supplementary healthcare.
+    - Deployment and tracking of models and solutions on cloud (CGP).
+    - Data treatment and featurization in SQL.
+    - Squad leader role.
 
-- **Junior Data Scientist at 3778**
-    - Data analysis and storytelling
-    - Development and tracking of a model for classifying work leave
+- **3778 - Junior Data Scientist**
+    - Data analysis and storytelling.
+    - Development and tracking of a model for classifying work leave.
 
-- **Machine Learning Intern at 3778**
+- **3778 - Machine Learning Intern**
     - Deep Learning research with portuguese NLP (Natural Language Processing).
 
 ---

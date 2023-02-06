@@ -33,17 +33,17 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 ## Experiência de trabalho
 
 - **3778 - Cientista de Dados II**
-    - Desenvolvimento de modelos preditivos focados em melhoria de desfecho em saúde suplementar
-    - Deploy e acompanhamento de modelos em nuvem (CGP)
-    - Tratamento de dados e construção de features em SQL
-    - Squad leader
+    - Desenvolvimento de modelos preditivos focados em melhoria de desfecho em saúde suplementar.
+    - Deploy e acompanhamento de modelos em nuvem (CGP).
+    - Tratamento de dados e construção de features em SQL.
+    - Squad leader.
 
 - **Junior Data Scientist at 3778**
-    - Análise de dados e storytelling
-    - Desenvolvimento e acompanhamento de modelo de classificação de afastamentos de trabalho
+    - Análise de dados e storytelling.
+    - Desenvolvimento e acompanhamento de modelo de classificação de afastamentos de trabalho.
 
 - **3778 - Cientista de Dados Júnior**
-    - Pesquisa em Aprendizado Profundo focada em PLN em português (Processamento de Língua Natural)
+    - Pesquisa em Aprendizado Profundo focada em PLN em português (Processamento de Língua Natural).
 
 ---
 
