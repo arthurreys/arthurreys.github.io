@@ -23,7 +23,7 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 
 ## Formação
 
-- **Federal University of Santa Catarina**
+- **Universidade Federal de Santa Catarina**
     - 2015-2020
     - Bacharel em Engenharia Elétrica
     - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
