@@ -16,7 +16,7 @@ Adicionalmente trabalho no deploy e acompanhamento dessas soluções em produç�
 No dia-a-dia utilizo Python e suas diversas bibliotecas (Pandas, Plotly, Scikit-learn, Keras, Tensorflow, DVC) e SQL (BigQuery, DBT), trabalhando em nuvem
 via GCP e com versionamento de código via Git/GitHub.
 
-Em minha experiência mais recente liderei uma de 3 equipes de Ciência de Dados, cujo trabalho envolvia o processo ponta-a-ponta desde recebimento de dados,
+Em minha experiência mais recente liderei uma de três equipes de Ciência de Dados, cujo trabalho envolvia o processo ponta-a-ponta desde recebimento de dados,
 tratamento e análises descritivas, análises ad-hoc, modelagem de modelos preditivos e baseados em regra, dashboards, até gestão de soluções em produção e acompanhamento com clientes.
 
 ---
