@@ -24,12 +24,12 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 ## Formação
 
 - **Federal University of Santa Catarina**
-    - Bacharel em Engenharia Elétrica
     - 2015-2020
+    - Bacharel em Engenharia Elétrica
+    - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
+    - Bolsista no Programa de Mobilidade Acadêmica ANDIFES/Santander, acolhido pela UNIFEI.
+    - Bolsista de Extensão no Núcleo de Educação Ambiental da UFSC (NEAmb).
     - [[artigo(TCC)](https://arxiv.org/abs/2008.01515)]
-    - - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
-    * Bolsista no Programa de Mobilidade Acadêmica ANDIFES/Santander, acolhido pela UNIFEI.
-    * Bolsista de Extensão no Núcleo de Educação Ambiental da UFSC (NEAmb).
 
 ---
 
@@ -61,7 +61,6 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
     - [[artigo](https://arxiv.org/abs/2008.01515)] [[ppt](assets/pdf/BRACIS2020 Presentation.pdf)] [[github](https://github.com/3778/icd-prediction-mimic)]
 
 
-
 - **Implementação em tempo real de um sistema de redução de ruído binaural com preservação da função de transferência interaural**
     - *Arthur D. Reys, Diego M. Carmo, Gabriel Souza, Márcio H. Costa*
     - SBRT 2019
@@ -73,7 +72,6 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
     - *Henrique P. Silva, Arthur D. Reys, Daniel S. Severo, Dominique H. Ruther, Flávio A. O. B. Silva, Maria C. S. S. Guimarães, Roberto Z. A. Pinto, Saulo D. S. Pedro, Túlio P. Navarro, Danilo Silva*
     - CBIS 2021
     - [[artigo](https://arxiv.org/abs/2112.13687)]
-
 
 
 - **Predição da Idade Cerebral a partir de Imagens de Ressonância Magnética utilizando Redes Neurais Convolucionais**

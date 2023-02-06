@@ -20,6 +20,18 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 
 ---
 
+## Education
+
+- **Federal University of Santa Catarina**
+    - 2015-2020
+    - Bachelor in Electric Engineering
+    - PIBIC/CNPq Research scholarship at Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS)
+    - Academic Mobility Program scholarship, hosted by UNIFEI.
+    - Extension scholarship at Núcleo de Educação Ambiental da UFSC (NEAmb).
+    - [[paper](https://arxiv.org/abs/2008.01515)]
+
+---
+
 ## Work Experience
 
 - **3778 - Data Scientist II**
@@ -40,22 +52,12 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 
 ---
 
-## Education
-
-- **Federal University of Santa Catarina**
-    - Bachelor in Electric Engineering
-    - 2015-2020
-    - [[paper(TCC)](https://arxiv.org/abs/2008.01515)]
-
----
-
 ## Publications (1st author)
 
 - **Predicting Multiple ICD-10 Codes from Brazilian-Portuguese Clinical Notes**
     - *Arthur D. Reys, Danilo Silva, Daniel Severo, Saulo Pedro, Marcia M. de Souza e Sá, Guilherme A. C. Salgado*<br/>
     - BRACIS 2020
     - [[paper](https://arxiv.org/abs/2008.01515)] [[ppt](assets/pdf/BRACIS2020 Presentation.pdf)] [[code](https://github.com/3778/icd-prediction-mimic)]
-
 
 
 - **Implementação em tempo real de um sistema de redução de ruído binaural com preservação da função de transferência interaural**
@@ -69,7 +71,6 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
     - *Henrique P. Silva, Arthur D. Reys, Daniel S. Severo, Dominique H. Ruther, Flávio A. O. B. Silva, Maria C. S. S. Guimarães, Roberto Z. A. Pinto, Saulo D. S. Pedro, Túlio P. Navarro, Danilo Silva*
     - CBIS 2021
     - [[paper](https://arxiv.org/abs/2112.13687)]
-
 
 
 - **Predição da Idade Cerebral a partir de Imagens de Ressonância Magnética utilizando Redes Neurais Convolucionais**
