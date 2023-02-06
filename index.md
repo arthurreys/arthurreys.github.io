@@ -18,6 +18,8 @@ working in a cloud-based environment (GCP) and versionating code with Git/GitHub
 My latest work experience was leading one out of three Data Science teams, working in the end-to-end process ranging from data acquisition and treatment,
 descriptive and ad-hoc analyses, modeling predictive and rule-based models, dashboards, to managing solutions in production.
 
+---
+
 ## Work Experience
 
 - **Data Scientist at 3778**
@@ -72,6 +74,5 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
     - 2015-2020
     - [[paper(TCC)](https://arxiv.org/abs/2008.01515)]
 
----
 
 
