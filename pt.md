@@ -24,11 +24,10 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 ## Formação
 
 - **Federal University of Santa Catarina**
-    - Bachelor in Electric Engineering
+    - Bacharel em Engenharia Elétrica
     - 2015-2020
     - [[artigo(TCC)](https://arxiv.org/abs/2008.01515)]
-
-        - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
+    - - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
     * Bolsista no Programa de Mobilidade Acadêmica ANDIFES/Santander, acolhido pela UNIFEI.
     * Bolsista de Extensão no Núcleo de Educação Ambiental da UFSC (NEAmb).
 
