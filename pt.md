@@ -21,6 +21,15 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
 
 ---
 
+## Formação
+
+- **Federal University of Santa Catarina**
+    - Bachelor in Electric Engineering
+    - 2015-2020
+    - [[artigo(TCC)](https://arxiv.org/abs/2008.01515)]
+
+---
+
 ## Experiência de trabalho
 
 - **3778 - Cientista de Dados II**
@@ -66,12 +75,4 @@ tratamento e análises descritivas, análises ad-hoc, modelagem de modelos predi
     - CBIS 2021
     - [[artigo](https://arxiv.org/abs/2112.12609)]
 
----
-
-## Formação
-
-- **Federal University of Santa Catarina**
-    - Bachelor in Electric Engineering
-    - 2015-2020
-    - [[artigo(TCC)](https://arxiv.org/abs/2008.01515)]
 

@@ -37,6 +37,15 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
 
 ---
 
+## Education
+
+- **Federal University of Santa Catarina**
+    - Bachelor in Electric Engineering
+    - 2015-2020
+    - [[paper(TCC)](https://arxiv.org/abs/2008.01515)]
+
+---
+
 ## Publications (1st author)
 
 - **Predicting Multiple ICD-10 Codes from Brazilian-Portuguese Clinical Notes**
@@ -64,15 +73,3 @@ descriptive and ad-hoc analyses, modeling predictive and rule-based models, dash
     - *Victor H. R. Oliveira, Augusto Antunes, Alexandre S. Soares, Arthur D. Reys, Robson Z. Júnior, Saulo D. S. Pedro, Danilo Silva*
     - CBIS 2021
     - [[paper](https://arxiv.org/abs/2112.12609)]
-
----
-
-## Education
-
-- **Federal University of Santa Catarina**
-    - Bachelor in Electric Engineering
-    - 2015-2020
-    - [[paper(TCC)](https://arxiv.org/abs/2008.01515)]
-
-
-
