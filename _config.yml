@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Arthur Reys
-description: A summary of my work experience, research and publications.
+description: Um resumo da minha experiência de trabalho, formação e pesquisa.
 logo: /assets/img/photo.jpg
 is_user_page: true
 
