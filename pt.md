@@ -13,11 +13,13 @@ Desenvolvo features e modelos preditivos de Aprendizado de Máquina que envolvem
 classificação multi-rótulo, clustering e abordagens mais avançadas de Aprendizado Profundo, como PLN (Processamento de Língua Natural).
 Adicionalmente trabalho no deploy e acompanhamento dessas soluções em produção via Cloud e APIs.
 
-No dia-a-dia utilizo Python e suas diversas bibliotecas (Pandas, Plotly, Scikit-learn, Keras, Tensorflow, DVC) e SQL (BigQuery, DBT), trabalhando em nuvem
+No dia-a-dia utilizo Python e suas diversas bibliotecas (Pandas, Plotly, Scikit-learn, Keras, Tensorflow, DVC, Dash) e SQL (BigQuery, DBT), trabalhando em nuvem
 via GCP e com versionamento de código via Git/GitHub.
 
-Em minha experiência mais recente liderei uma de três equipes de Ciência de Dados, cujo trabalho envolvia o processo ponta-a-ponta desde recebimento de dados,
+Como liderança de uma equipe de Cientistas de Dados, desenvolvemos um processo ponta-a-ponta desde recebimento de dados de saúde,
 tratamento e análises descritivas, análises ad-hoc, modelagem de modelos preditivos e baseados em regra, dashboards, até gestão de soluções em produção e acompanhamento com clientes.
+
+Também como liderança participei do desenvolvimento de um sistema completo de extração de informação de imagens de diferentes documentos médicos utilizando Grandes Modelos de Linguagem Multimodais.
 
 ---
 

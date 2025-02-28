@@ -3,86 +3,88 @@ layout: default
 ---
 
 
-## About me
+## Sobre mim
 
-I'm a Data Scientist with experience and interest in Machine Learning and Deep Learning, with a Bachelor degree in Electric Engineering by the
-Federal University of Santa Catarina, in Brazil.
+Sou Cientista de Dados com experiência e interesse em Aprendizado de Máquina e Aprendizado Profundo (Deep Learning),
+formado em Engenharia Elétrica pela Universidade Federal de Santa Catarina.
 
-As a Data Scientist, my work includes treating and analysing data, with particular experience in healthcare data.
-I develop features and predictive Machine Learning models such as regression, multi-label classification tasks, clustering and more advanced
-Deep Learning approaches such as NLP (Natural Language Processing). Additionaly, I also work to deploy and manage such models via Cloud and APIs.
+Como Cientista de Dados trabalho com tratamento e análise de dados, tendo particular experiência com dados de saúde.
+Desenvolvo features e modelos preditivos de Aprendizado de Máquina que envolvem regressões, modelos de
+classificação multi-rótulo, clustering e abordagens mais avançadas de Aprendizado Profundo, como PLN (Processamento de Língua Natural).
+Adicionalmente trabalho no deploy e acompanhamento dessas soluções em produção via Cloud e APIs.
 
-Daily I use Python and its many libraries (Pandas, Plotly, Scikit-learn, Keras, Tensorflow, DVC) and SQL (BigQuery, DBT),
-working in a cloud-based environment (GCP) and versionating code with Git/GitHub.
+No dia-a-dia utilizo Python e suas diversas bibliotecas (Pandas, Plotly, Scikit-learn, Keras, Tensorflow, DVC, Dash) e SQL (BigQuery, DBT), trabalhando em nuvem
+via GCP e com versionamento de código via Git/GitHub.
 
-My latest work experience was leading one out of three Data Science teams, working in the end-to-end process ranging from data acquisition and treatment,
-descriptive and ad-hoc analyses, modeling predictive and rule-based models, dashboards, to managing solutions in production.
+Como liderança de uma equipe de Cientistas de Dados, desenvolvemos um processo ponta-a-ponta desde recebimento de dados de saúde,
+tratamento e análises descritivas, análises ad-hoc, modelagem de modelos preditivos e baseados em regra, dashboards, até gestão de soluções em produção e acompanhamento com clientes.
+
+Também como liderança participei do desenvolvimento de um sistema completo de extração de informação de imagens de diferentes documentos médicos utilizando Grandes Modelos de Linguagem Multimodais.
 
 ---
 
-## Education
+## Formação
 
-- **Federal University of Santa Catarina**
+- **Universidade Federal de Santa Catarina**
     - *2015-2020*
-    - Bachelor in Electric Engineering
-    - PIBIC/CNPq Research scholarship at Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS)
-    - Academic Mobility Program scholarship, hosted by UNIFEI.
-    - Extension scholarship at Núcleo de Educação Ambiental da UFSC (NEAmb).
-    - [[paper](https://arxiv.org/abs/2008.01515)]
+    - Bacharel em Engenharia Elétrica
+    - Bolsista PIBIC/CNPq no Laboratório de Pesquisas em Processamento Digital de Sinais (LPDS).
+    - Bolsista no Programa de Mobilidade Acadêmica ANDIFES/Santander, acolhido pela UNIFEI.
+    - Bolsista de Extensão no Núcleo de Educação Ambiental da UFSC (NEAmb).
+    - [[artigo(TCC)](https://arxiv.org/abs/2008.01515)]
 
 ---
 
-## Work Experience
+## Experiência de trabalho
 
-- **3778 - Data Scientist II**
+- **3778 - Cientista de Dados II**
     - *2022-*
-    - Development of Predictive models focused on improving navigation and outcome in supplementary healthcare.
-    - Deployment and tracking of models and solutions on cloud (CGP).
-    - Data treatment and featurization in SQL.
-    - Squad leader role.
+    - Desenvolvimento de modelos preditivos focados em melhoria de desfecho em saúde suplementar.
+    - Deploy e acompanhamento de modelos em nuvem (CGP).
+    - Tratamento de dados e construção de features em SQL.
+    - Squad leader.
 
-- **3778 - Junior Data Scientist**
+- **3778 - Cientista de Dados Júnior**
     - *2020-2022*
-    - Data analysis and storytelling.
-    - Development and tracking of a model for classifying work leave.
+    - Análise de dados e storytelling.
+    - Desenvolvimento e acompanhamento de modelo de classificação de afastamentos de trabalho.
 
-- **3778 - Machine Learning Intern**
+- **3778 - Estagiário de Machine Learning**
     - *2019-2020*
-    - Deep Learning research with portuguese NLP (Natural Language Processing).
+    - Pesquisa em Aprendizado Profundo focada em PLN em português (Processamento de Língua Natural).
 
 ---
 
-## Publications (1st author)
+## Publicações (1º autor)
 
 - **Predicting Multiple ICD-10 Codes from Brazilian-Portuguese Clinical Notes**
     - *Arthur D. Reys, Danilo Silva, Daniel Severo, Saulo Pedro, Marcia M. de Souza e Sá, Guilherme A. C. Salgado*<br/>
     - BRACIS 2020
-    - [[paper](https://arxiv.org/abs/2008.01515)] [[ppt](assets/pdf/BRACIS2020 Presentation.pdf)] [[code](https://github.com/3778/icd-prediction-mimic)]
+    - [[artigo](https://arxiv.org/abs/2008.01515)] [[ppt](assets/pdf/BRACIS2020 Presentation.pdf)] [[github](https://github.com/3778/icd-prediction-mimic)]
 
 
 - **Implementação em tempo real de um sistema de redução de ruído binaural com preservação da função de transferência interaural**
     - *Arthur D. Reys, Diego M. Carmo, Gabriel Souza, Márcio H. Costa*
     - SBRT 2019
-    - [[paper](assets/pdf/sbrt2019.pdf)]
+    - [[artigo](assets/pdf/sbrt2019.pdf)]
 
-## Other publications
+## Outras Publicações
 
 - **Predição de Incidência de Lesão por Pressão em Pacientes de UTI usando Aprendizado de Máquina**
     - *Henrique P. Silva, Arthur D. Reys, Daniel S. Severo, Dominique H. Ruther, Flávio A. O. B. Silva, Maria C. S. S. Guimarães, Roberto Z. A. Pinto, Saulo D. S. Pedro, Túlio P. Navarro, Danilo Silva*
     - CBIS 2021
-    - [[paper](https://arxiv.org/abs/2112.13687)]
+    - [[artigo](https://arxiv.org/abs/2112.13687)]
 
 
 - **Predição da Idade Cerebral a partir de Imagens de Ressonância Magnética utilizando Redes Neurais Convolucionais**
     - *Victor H. R. Oliveira, Augusto Antunes, Alexandre S. Soares, Arthur D. Reys, Robson Z. Júnior, Saulo D. S. Pedro, Danilo Silva*
     - CBIS 2021
-    - [[paper](https://arxiv.org/abs/2112.12609)]
+    - [[artigo](https://arxiv.org/abs/2112.12609)]
 
 ---
 
-## Language
+## Idiomas
 
-- Portuguese (native)
-- English (intermediate)
-- German (beginner)
-
+- Português (nativo)
+- Inglês (intermediário)
+- Alemão (básico)
