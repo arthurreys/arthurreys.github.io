@@ -6,7 +6,7 @@ layout: default
 ## Sobre mim
 
 Sou Cientista de Dados com experiência e interesse em Aprendizado de Máquina e Aprendizado Profundo (Deep Learning),
-formado em Engenharia Elétrica pela Universidade Federal de Santa Catarina.
+formado em Engenharia Elétrica pela Universidade Federal de Santa Catarina (UFSC).
 
 Como Cientista de Dados trabalho com tratamento e análise de dados, tendo particular experiência com dados de saúde.
 Desenvolvo features e modelos preditivos de Aprendizado de Máquina que envolvem regressões, modelos de
@@ -19,7 +19,9 @@ via GCP e com versionamento de código via Git/GitHub.
 Como liderança de uma equipe de Cientistas de Dados, desenvolvemos um processo ponta-a-ponta desde recebimento de dados de saúde,
 tratamento e análises descritivas, análises ad-hoc, modelagem de modelos preditivos e baseados em regra, dashboards, até gestão de soluções em produção e acompanhamento com clientes.
 
-Também como liderança participei do desenvolvimento de um sistema completo de extração de informação de imagens de diferentes documentos médicos utilizando Grandes Modelos de Linguagem Multimodais.
+Também como liderança participei do desenvolvimento de um sistema completo de extração de informação de imagens de diferentes documentos médicos utilizando Grandes Modelos de Linguagem Multimodais (MMLMs).
+
+Atualmente, sou mestrando no Programa de Pós-Graduação em Engenharia Elétrica da UFSC, estudando estimação de incerteza em extração de informação estruturada em MMLMs.
 
 ---
 
